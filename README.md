@@ -15,7 +15,7 @@
 ## 🎯 Project Objectives
 
 ### Main Objective
-To analyze and compare two graph-based pathfinding algorithms — **Dijkstra’s Algorithm** and **A* (A-Star) Algorithm** — to determine which provides more efficient and intelligent routing from UPM to Besut during periods of high traffic density.
+To analyze and compare two graph-based pathfinding algorithms — **Dijkstra’s Algorithm** and **A\* (A-Star) Algorithm** — to determine which provides more efficient and intelligent routing from UPM to Besut during periods of high traffic density.
 
 ### Specific Objectives
 - Simulate real-world traffic scenarios using weighted graphs representing highways and junctions.
