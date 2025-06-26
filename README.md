@@ -5,10 +5,10 @@
 **Course Title**: Design and Analysis of Algorithm  
 
 ## 👥 Group 4 Members
-- Aya Sofea Binti Rosli
-- Azyan Syazwani Binti Setia 
-- Fatin Nasuha Binti Zuraidi
-- Siti Najma Izzaty Binti Muhd Asyraf
+- Aya Sofea Binti Rosli 214973
+- Azyan Syazwani Binti Setia 215014
+- Fatin Nasuha Binti Zuraidi 215190
+- Siti Najma Izzaty Binti Muhd Asyraf 216922
 
 ---
 
